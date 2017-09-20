@@ -1,0 +1,1 @@
+D:\!Library\Projects C#\UWP1\UWP1\WeatherNow.csproj;x86
